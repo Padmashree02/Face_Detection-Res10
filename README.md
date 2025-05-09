@@ -36,4 +36,4 @@ Solution :-
 
         - Else no, then will pass to the next detection.
       
-  > As the Face detecton model is designed with a motivation of SSD theory, the result from the input image will display the image with one face detection. 
+  > As the Face detecton model is designed with a motivation of SSD theory, the result from the input image will display the image with all valid face detection. 
